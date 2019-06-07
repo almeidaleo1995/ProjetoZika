@@ -8,5 +8,10 @@ namespace Apresentacao
         {
             InitializeComponent();
         }
+
+        private void passowordlabel_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

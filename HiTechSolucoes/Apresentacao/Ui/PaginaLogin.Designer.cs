@@ -90,6 +90,7 @@
             this.metroTextBox2.Size = new System.Drawing.Size(143, 23);
             this.metroTextBox2.TabIndex = 4;
             this.metroTextBox2.UseSelectable = true;
+            this.metroTextBox2.UseWaitCursor = true;
             this.metroTextBox2.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox2.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
@@ -120,6 +121,7 @@
             this.metroTextBox3.Size = new System.Drawing.Size(143, 23);
             this.metroTextBox3.TabIndex = 5;
             this.metroTextBox3.UseSelectable = true;
+            this.metroTextBox3.UseWaitCursor = true;
             this.metroTextBox3.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox3.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
@@ -135,6 +137,7 @@
             this.Controls.Add(this.metroButton1);
             this.Name = "LoginPage";
             this.Text = "HiTech Solution";
+            this.UseWaitCursor = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 

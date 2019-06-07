@@ -1,0 +1,31 @@
+"Languages": [
+   {
+     "Language": "Pt",
+     "Campos": [
+       {
+         "Loginbutton": "Entrar",
+		 "userlabel": "Usuario:",
+		 "passowordlabel": "Senha:",
+       }
+     ],
+   },
+   {
+    "Language": "En",
+     "Campos": [
+       {
+         "Loginbutton": "Login",
+		 "userlabel": "User:",
+		 "passowordlabel": "Password:",
+       }
+       }
+     ]
+   },
+    "Language": "Es",
+     "Campos": [
+       {
+         "Loginbutton": "Entrar",
+		 "userlabel": "Usuario:",
+		 "passowordlabel": "contraseña:",
+       }
+     ],	
+]
